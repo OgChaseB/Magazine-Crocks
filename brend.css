@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+* {
+    margin: 0;
+}
+header {
+    height: 82px;
+    background-color: rgba(205, 204, 204, 1);
+    display: flex;
+    flex-direction: row;
+}
+.logo {
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    padding-left: 60px;
+    margin-top: 22px;
+}
+.osn {
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+.img-logo {
+    width: 39px;
+    height: 39px;
+    margin-top: 13px;
+}
+.slova {
+    padding-left: 185px;
+    margin-top: 25px;
+    word-spacing: 90px;
+}
+.prof {
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 795px;
+}
+.nov-logo {
+    text-align: center;
+    padding-top: 90px;
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+.brand-one {
+    margin-top: 66px;
+    padding-left: 204px;
+    word-spacing: 220px;
+}
+.brand-two {
+    margin-top: 110px;
+    padding-left: 204px;
+    word-spacing: 220px;
+}
